@@ -7,7 +7,7 @@ As you can see the player can move with WASD and Arrow keys and can move up and 
 And you can boost with Lshift and light speed with Lshift+Ctrl.
 
 Player script is for the player movements.
+optimalDistance destroys all star volumes and clouds more than a distance.
 
 # Goal
 It should have a real universe like feel with planets that you can visit like No Man's Sky.
-Also stars around.
